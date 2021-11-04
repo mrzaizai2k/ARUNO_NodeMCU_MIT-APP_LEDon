@@ -3,7 +3,7 @@ LED Control with Android app via Wifi to NodeMCU and Arduino Uno then send data 
 
 [**YOUTUBE LINK: IOT with Arduino Uno, NodeMCU, MIT app _ Mrzaizai2k**](https://www.youtube.com/watch?v=3IDCPlOG418&list=PLwPBf6q2CQ-btTIgsZXhBJY6vKkSxBtxv&index=2)
 
-My Arduino code, circut diagram & apk. file (MIT App): https://drive.google.com/open?id=1pGB...
+My Arduino code, circut diagram & apk. file (MIT App): https://drive.google.com/open?id=1pGBlIQ7Rhmqb2475-qOyBZvDtrR75e32
 
 References:
 1. How To Build Custom Android App for your Arduino Project using MIT App Inventor: https://www.youtube.com/watch?time_continue=69&v=o-YVvxYiSuk&feature=emb_logo
