@@ -1,7 +1,7 @@
 # ARUNO_NodeMCU_MIT-APP_LEDon
 LED Control with Android app via Wifi to NodeMCU and Arduino Uno then send data back to the app.
 
-Link Youtube: https://www.youtube.com/watch?v=3IDCPlOG418&list=PLwPBf6q2CQ-btTIgsZXhBJY6vKkSxBtxv&index=2
+[**YOUTUBE LINK: IOT with Arduino Uno, NodeMCU, MIT app _ Mrzaizai2k**](https://www.youtube.com/watch?v=3IDCPlOG418&list=PLwPBf6q2CQ-btTIgsZXhBJY6vKkSxBtxv&index=2)
 
 My Arduino code, circut diagram & apk. file (MIT App): https://drive.google.com/open?id=1pGB...
 
